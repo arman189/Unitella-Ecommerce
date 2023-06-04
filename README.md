@@ -1,5 +1,7 @@
 # Unitella-Ecommerce
-Unitella is a Full Stack E-Commerce MERN Application where user can search for product based on category, price, etc and can buy that product. Admin can receive the order made by user in admin panel.
+Unitella is a Full Stack E-Commerce MERN Application where user can search for product based on category, price, etc and can buy that product. Admin can receive the order made by user in admin panel.It is a MERN Application by using React.js, Node.js, MongoDB,
+Express.js, Javascript, HTML, CSS, etc. Functionality Added - User access, Admin Access, Search Product,
+Filter based on category and price, Add to cart, Make Payment, Login And Logout.
 
 # Steps to run this project
  Step 1- npm install
